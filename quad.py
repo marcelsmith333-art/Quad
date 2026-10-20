@@ -1,4 +1,4 @@
-from enum import IntEnum
+om enum import IntEnum
 from dataclasses import dataclass, field
 from typing import List, Dict
 import hashlib
@@ -15,4 +15,3 @@ class QUAD:
 @dataclass
 class BuildCreditLedger:
     supply: float=0.0
-    balances: Dict[str,float]=field(default_factory=dict)

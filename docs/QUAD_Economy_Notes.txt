@@ -1,9 +1,0 @@
-    ## QUAD Economy v2 - Quadratic Economy
-    Future tech will be paid for by QUADS. Only way to buy it is to have QUADS.
-    
-    - Build codes -> Earn QUADS (mint 2 or 8 credits)
-    - Every QUAD = hash + owner + timestamp - cemented, traceable
-    - Spend QUADS -> Burn supply -> Unlock Tier 1 Knowledge / Tier 2 Hardware / Tier 3 Future Tech
-    - Buyer = Proven Builder. Work + Identity + Time = Ethical Filter.
-    
-    Read the full paper: [Whitepaper](./docs/QUAD_Economy_Whitepaper.html)
